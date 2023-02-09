@@ -2,7 +2,6 @@
 
 import 'package:flutter/material.dart';
 import 'package:lms_parent_app/fade_animation.dart';
-import 'package:lms_parent_app/pages/add_user.dart';
 import 'package:lms_parent_app/pages/add_users_page.dart';
 import 'package:lms_parent_app/pages/home_page.dart';
 import 'package:shared_preferences/shared_preferences.dart';
